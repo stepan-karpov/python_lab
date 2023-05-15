@@ -1,0 +1,168 @@
+{
+  "items": [
+    {
+      "id": "71556162",
+      "premium": false,
+      "name": "Физик-ядерщик",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": 110000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": { "id": "open", "name": "Открытая" },
+      "address": {
+        "city": null,
+        "street": null,
+        "building": null,
+        "lat": null,
+        "lng": null,
+        "description": null,
+        "raw": "Москва, ул. Введенского, д. 1, м. Калужская",
+        "metro": null,
+        "metro_stations": [],
+        "id": "170835"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-04-20T14:47:53+0300",
+      "created_at": "2023-04-20T14:47:53+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=71556162",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/71556162?host=hh.ru",
+      "adv_response_url": null,
+      "alternate_url": "https://hh.ru/vacancy/71556162",
+      "relations": [],
+      "employer": {
+        "id": "1047669",
+        "name": "НПЦАП (Научно-производственный центр автоматики и приборостроения имени академика Н. А. Пилюгина)",
+        "url": "https://api.hh.ru/employers/1047669",
+        "alternate_url": "https://hh.ru/employer/1047669",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/1069277.jpg",
+          "240": "https://hhcdn.ru/employer-logo/5897738.jpeg",
+          "90": "https://hhcdn.ru/employer-logo/5897737.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1047669",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Высшее техническое образование в области ядерной физики. Уверенный пользователь ПК. Готовность к командировкам. Опыт работы не менее 3-х лет...",
+        "responsibility": "Оценка соответствия уровня стойкости ЭКБ требованиям ТЗ на изделие. Определение стойкости аппаратуры к воздействию ионизирующих излучений. Разработка и согласование программ..."
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        { "id": "79", "name": "Научный специалист, исследователь" }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": { "id": "between3And6", "name": "От 3 до 6 лет" },
+      "employment": { "id": "full", "name": "Полная занятость" }
+    },
+    {
+      "id": "70882880",
+      "premium": false,
+      "name": "Государственный эксперт по Интеллектуальной собственности",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "type": { "id": "open", "name": "Открытая" },
+      "address": {
+        "city": "Москва",
+        "street": "Бережковская набережная",
+        "building": "30к1",
+        "lat": 55.729934,
+        "lng": 37.548016,
+        "description": null,
+        "raw": "Москва, Бережковская набережная, 30к1",
+        "metro": {
+          "station_name": "Киевская",
+          "line_name": "Кольцевая",
+          "station_id": "5.49",
+          "line_id": "5",
+          "lat": 55.74361,
+          "lng": 37.56735
+        },
+        "metro_stations": [
+          {
+            "station_name": "Киевская",
+            "line_name": "Кольцевая",
+            "station_id": "5.49",
+            "line_id": "5",
+            "lat": 55.74361,
+            "lng": 37.56735
+          },
+          {
+            "station_name": "Лужники",
+            "line_name": "МЦК",
+            "station_id": "95.535",
+            "line_id": "95",
+            "lat": 55.720278,
+            "lng": 37.563056
+          }
+        ],
+        "id": "5828243"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-05-11T13:35:47+0300",
+      "created_at": "2023-05-11T13:35:47+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=70882880",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/70882880?host=hh.ru",
+      "adv_response_url": null,
+      "alternate_url": "https://hh.ru/vacancy/70882880",
+      "relations": [],
+      "employer": {
+        "id": "2732321",
+        "name": "ФГБУ Федеральный институт промышленной собственности",
+        "url": "https://api.hh.ru/employers/2732321",
+        "alternate_url": "https://hh.ru/employer/2732321",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2732321",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Высшее техническое образование по направлениям: -Специалист в области ИТ-технологий. -Конструктор-технолог электронных приборов. -Самостоятельность, аналитический склад ума, умение работать...",
+        "responsibility": "...с заявителями, вынесение решения по заявкам на изобретения и полезные модели. -Специалист по беспилотным системам управления на транспорте. -<highlighttext>Физик</highlighttext>-<highlighttext>ядерщик</highlighttext>."
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [{ "id": "40", "name": "Другое" }],
+      "accept_incomplete_resumes": false,
+      "experience": { "id": "noExperience", "name": "Нет опыта" },
+      "employment": { "id": "full", "name": "Полная занятость" }
+    }
+  ],
+  "found": 2,
+  "pages": 1,
+  "per_page": 20,
+  "page": 0,
+  "clusters": null,
+  "arguments": null,
+  "alternate_url": "https://hh.ru/search/vacancy?area=1&enable_snippets=true&text=%22%D0%A4%D0%B8%D0%B7%D0%B8%D0%BA-%D1%8F%D0%B4%D0%B5%D1%80%D1%89%D0%B8%D0%BA%22"
+}
